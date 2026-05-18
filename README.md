@@ -63,7 +63,7 @@ National Number: 9876543210
 
 ```bash
 git clone https://github.com/rootNyx404/OSINT-TELEGRAM-BOT.git
-cd phone-intelligence-bot
+cd OSINT-TELEGRAM-bot
 ```
 
 ---
