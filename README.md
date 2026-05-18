@@ -208,7 +208,8 @@ of this software and associated documentation files.
 Developed by CyberWorld
         
 🌐 mycyberworld.online
-              ---ARUP HALDER
+
+              --ARUP HALDER
 ---
 
 # ⭐ Support
