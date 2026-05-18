@@ -62,7 +62,7 @@ National Number: 9876543210
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/global-phone-intelligence-bot.git
+git clone https://github.com/rootNyx404/OSINT-TELEGRAM-BOT.git
 cd global-phone-intelligence-bot
 ```
 
@@ -206,9 +206,9 @@ of this software and associated documentation files.
 # 👨‍💻 Author
 
 Developed by CyberWorld
-
+        
 🌐 mycyberworld.online
-
+              ---ARUP HALDER
 ---
 
 # ⭐ Support
